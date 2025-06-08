@@ -86,7 +86,6 @@ public class DataRequest {
             System.err.println("Erro ao criar api.ini: " + e.getMessage());
         }
     }
-    //"a41ad926db9030108c3c54db";
     public void WriteIniFile(){
         Properties props = new Properties();
         props.setProperty("api_set", "");
