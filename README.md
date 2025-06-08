@@ -20,7 +20,7 @@ O Conversor aceita até 8 moedas, podendo alterar adicionar/remover moedas atrav
 
 ## 🛠️ Construído com
 
-* [IntelliJ IDEA Community Edition 2025.1](https://www.jetbrains.com/pt-br/idea/) - O framework web usado
+* [IntelliJ IDEA Community Edition 2025.1](https://www.jetbrains.com/pt-br/idea/) 
 * [Maven](https://maven.apache.org/) - Gerente de Dependência
 
 ## 📌 Versão
