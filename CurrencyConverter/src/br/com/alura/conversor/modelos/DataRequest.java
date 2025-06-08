@@ -44,7 +44,7 @@ public class DataRequest {
         api_set = ReadIniFile();
         String url_convert = url_ + api_set + "/pair/";
         String convertCurrency = url_convert + "/" + currencyFrom + "/" + currencyTo + "/" + amount.toString();
-        System.out.println(convertCurrency);
+        //System.out.println(convertCurrency);
         return httpRequest(convertCurrency);
     }
 
