@@ -5,7 +5,7 @@ Converte moedas com valores atualizados de acordo com a cotação do dia.
 ## 🚀 Começando
 
 Desenvolvido para consolidar conhecimento adquirido nas aulas de java.
-O Conversor aceita até 8 moedas, podendo alterar a moeda no arquivo moedas.txt
+O Conversor aceita até 8 moedas, podendo alterar adicionar/remover moedas através do arquivo moedas.txt
 
 ### 📋 Pré-requisitos
 
@@ -25,10 +25,11 @@ O Conversor aceita até 8 moedas, podendo alterar a moeda no arquivo moedas.txt
 
 ## 📌 Versão
 
-1.0 - Final - 08/06/2025
+* 1.0 - Final - 08/06/2025
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p> 
 
 ## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Danilo** - *Desafio Alura* - [Danilo Silva](https://github.com/DSS181)
