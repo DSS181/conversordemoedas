@@ -1,0 +1,29 @@
+########################################################
+Por favor, Selecione a moeda que deseja converter :
+1 - BRL - Real Brasileiro
+2 - USD - Dolar
+3 - EUR - Euro
+4 - ARS - Peso Argentino
+5 - COP - Peso Colombiano
+6 - CAD - Dolar Canadense
+7 - MXN - Peso Mexicano
+8 - CLP - Peso Chileno
+
+0 - Sair
+########################################################
+
+########################################################
+Converter: %s, para as seguintes moedas :
+1 - BRL - Real Brasileiro
+2 - USD - Dolar
+3 - EUR - Euro
+4 - ARS - Peso Argentino
+5 - COP - Peso Colombiano
+6 - CAD - Dolar Canadense
+7 - MXN - Peso Mexicano
+8 - CLP - Peso Chileno
+
+9 - Voltar
+0 - Sair
+########################################################
+//maximo até oito opções.
