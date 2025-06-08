@@ -5,7 +5,7 @@ Converte moedas com valores atualizados de acordo com a cotação do dia.
 ## 🚀 Começando
 
 Desenvolvido para consolidar conhecimento adquirido nas aulas de java.
-O Conversor aceita até 8 moedas, podendo alterar adicionar/remover moedas através do arquivo moedas.txt
+O Conversor aceita até 8 moedas, sendo possível alterar, adicionar/remover moedas através do arquivo moedas.txt
 
 ### 📋 Pré-requisitos
 
